@@ -1,0 +1,43 @@
+body {
+    background: linear-gradient(45deg, rgb(235, 101, 141), rgb(246, 136, 51), rgb(255, 217, 28));
+    text-decoration:dashed;
+  }
+ button{
+    background : rgb(231, 92, 176);
+  }
+  img{
+    border-radius: 20px;
+    border-image-width: 30px;
+  }
+  .header_div{
+    background-color: linear-gradient(45deg, red, blue);
+    color:lavenderblush;
+
+  }
+  .header_div p{
+    font-family: 'Times New Roman', Times, serif;
+    color:lightgray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .main_div button{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+  }
+  .copy_right_footer{
+    position: fixed;
+    color: magenta;
+    bottom:0;
+    width:100%;
+    font-size:18px;
+    background-color:linear-gradient(45deg, rgb(101, 34, 54), rgb(130, 66, 17), rgb(116, 98, 7)) ;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px palevioletred;
+    font-weight: bolder;
+    font-size: 30px;
+  }
